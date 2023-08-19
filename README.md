@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Wilhelm
 - 👀 I’m interested in games programming
-- 🌱 I’m currently learning python, C#
+- 🌱 I’m currently learning, C#, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... *laughs in lack of social life*
 
